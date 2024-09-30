@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 
-## Language, Framework..
+### Language, Framework..
 
 - Linux(Ubuntu), Shell(bash & zsh)
 - Docker & Docker Compose
@@ -21,15 +21,14 @@
 - Json, Yaml
 - MarkDown
 
-## Tools
+### Tools..
 - Git, Github(actions), 
 - Vim, Nano
 - Emmet
 - Vscode, Sublime Text, Atom, Jetbrains IDEs(Pytcharm, Webstorm, Phpstrom)
 
-## Interesting
-- redis
-- mongodb
+### Interesting..
+- redis, mongodb
 - Ios & Android app Development
 
 
