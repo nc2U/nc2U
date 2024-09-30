@@ -8,10 +8,8 @@
 - Kubernetes & Helm
 - SQL (mysql, mariadb)
 - Nginx
-- Php
-- CodeIgniter, Laravel
-- Python
-- Django & Django Rest Framework
+- Php (CodeIgniter, Laravel)
+- Python (Django & Django Rest Framework)
 - Javascript, Typescript
 - Nodejs
 - Vue, Svelte
