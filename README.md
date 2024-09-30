@@ -10,10 +10,8 @@
 - Nginx
 - Php (CodeIgniter, Laravel)
 - Python (Django & Django Rest Framework)
-- Javascript, Typescript
-- Nodejs
-- Vue, Svelte
-- Css, Less, Sass, Scss
+- Javascript (Typescript, Nodejs, Vue, Svelte)
+- Css (Less, Sass, Scss)
 - Html5
 - Rest api
 - Json, Yaml
