@@ -1,31 +1,33 @@
-<!-- ## Hi there 👋 -->
+1. Infra, Language, Framework
 
-
-### Language, Framework..
-
-- Linux(Ubuntu), Shell(bash & zsh)
+- Linux(Ubuntu,CentOS), Shell(bash & zsh)
 - Docker & Docker Compose
 - Kubernetes & Helm
 - SQL (mysql, mariadb)
 - Nginx
-- Php (CodeIgniter, Laravel)
-- Python (Django & Django Rest Framework)
-- Javascript (Typescript, Nodejs, Vue, Svelte)
-- Css (Less, Sass, Scss)
+- PHP
+- CodeIgniter, Laravel
+- Python
+- Django & Django Rest Framework
+- Javascript, Typescript
+- Nodejs
+- Vue, Svelte
+- Css, Less, Sass, Scss
 - Html5
 - Rest api
 - Json, Yaml
 - MarkDown
 
-### Tools..
+2. Tools
 - Git, Github(actions), 
 - Vim, Nano
 - Emmet
 - Vscode, Sublime Text, Atom, Jetbrains IDEs(Pytcharm, Webstorm, Phpstrom)
 
-### Interesting..
-- redis, mongodb
-- Ios & Android app Development
+3. Interesting
+- redis
+- mongodb
+- IOS & Android app Development
 
 
 <!--
