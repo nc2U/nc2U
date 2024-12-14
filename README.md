@@ -5,16 +5,12 @@
 - Kubernetes & Helm
 - SQL (mysql, mariadb)
 - Nginx
-- PHP
-- CodeIgniter, Laravel
-- Python
-- Django & Django Rest Framework
-- Javascript, Typescript
-- Nodejs
-- Vue, Svelte
-- Css, Less, Sass, Scss
+- PHP - CodeIgniter, Laravel
+- Python - Django & Django Rest Framework
+- Javascript - Typescript, Nodejs, Vue, Svelte
+- Css - Less, Sass, Scss
 - Html5
-- Rest api
+- Rest API
 - Json, Yaml
 - MarkDown
 
