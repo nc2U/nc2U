@@ -3,7 +3,7 @@
 - Linux(Ubuntu,CentOS), Shell(bash & zsh)
 - Docker & Docker Compose
 - Kubernetes & Helm
-- SQL (mysql, mariadb)
+- SQL (postgresql, mysql, mariadb)
 - Nginx
 - PHP - CodeIgniter, Laravel
 - Python - Django & Django Rest Framework
